@@ -8,6 +8,7 @@ public class ProjetoExemploMavenApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoExemploMavenApplication.class, args);
+		System.out.println("Hello world!");
 	}
 
 }
