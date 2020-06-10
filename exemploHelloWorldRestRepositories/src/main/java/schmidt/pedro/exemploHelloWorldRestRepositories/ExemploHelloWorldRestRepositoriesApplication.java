@@ -8,6 +8,7 @@ public class ExemploHelloWorldRestRepositoriesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExemploHelloWorldRestRepositoriesApplication.class, args);
+
 	}
 
 }
