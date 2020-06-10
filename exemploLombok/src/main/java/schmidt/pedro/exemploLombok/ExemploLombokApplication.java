@@ -9,5 +9,6 @@ public class ExemploLombokApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExemploLombokApplication.class, args);
 	}
+	
 
 }
